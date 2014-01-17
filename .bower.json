@@ -1,0 +1,14 @@
+{
+  "name": "Messi",
+  "homepage": "https://github.com/ibrahim12/Messi",
+  "_release": "master",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "35f751064dcfc481096e89eee0df8585e5b9861c"
+  },
+  "_source": "https://github.com/ibrahim12/Messi.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/ibrahim12/Messi.git",
+  "_direct": true
+}
